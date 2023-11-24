@@ -1,0 +1,8 @@
+img{
+
+}
+
+.card-container{
+    display: grid;
+    max-width: 600px;
+}
